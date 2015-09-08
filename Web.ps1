@@ -7,10 +7,14 @@ cinst nodejs
 
 cinst visualstudiocode
 cinst vim
+cinst nugetpackageexplorer
 
 
 cinst firefox
 cinst googlechrome
 
+
+cinst virtualbox
+cinst vagrant
 
 cinst IIS-WebServerRole -source windowsfeatures
