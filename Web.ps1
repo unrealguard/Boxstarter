@@ -10,7 +10,7 @@ cinst vim
 
 
 cinst firefox
-cinst chrome
+cinst googlechrome
 
 
 cinst IIS-WebServerRole -source windowsfeatures
