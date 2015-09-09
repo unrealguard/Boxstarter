@@ -15,6 +15,7 @@ cinst googlechrome
 
 
 cinst virtualbox
+cinst packer
 cinst vagrant
 
 cinst IIS-WebServerRole -source windowsfeatures
